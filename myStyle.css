@@ -6,13 +6,21 @@ a:hover{
 	color: #00a9e7;
 }
 #nav{
-	padding-left: 75px;
+	padding-left: 10%;
 	background-color:#333333;
 	color: #ff8f00;
 }
 #nav:hover{
 	background-color:black;
 	color: #00a9e7;
+}
+#full-width{
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+#footy{
+	text-align:center;
 }
 body{
 	font-family: josefinSans;
