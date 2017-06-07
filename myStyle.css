@@ -30,6 +30,14 @@ body{
 	padding: 0px;
 }
 
+#standard{
+    text-indent: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 65%;
+    font-size: 14pt;
+}
+
 @font-face {
 	font-family: josefinSans;
 	src: url('jose/JosefinSans-Regular.eot');
@@ -39,6 +47,7 @@ body{
 		url('jose/JosefinSans-Regular.ttf') format('truetype'),
 		url('jose/JosefinSans-Regular.svg#JosefinSans') format('svg');
 }
+
 html {
 	overflow-x: hidden;
 	margin: 0px;
